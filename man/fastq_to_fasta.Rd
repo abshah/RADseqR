@@ -6,6 +6,11 @@
 \usage{
 fastq_to_fasta(fastq_infile, fasta_outfile)
 }
+\arguments{
+\item{fastq_infile}{file name of fastq input file as a character vector}
+
+\item{fasta_outfile}{file name of fasta output file as a character vector}
+}
 \description{
 fastq to fasta
 }
